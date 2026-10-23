@@ -1,0 +1,847 @@
+1
+TEAM ID: TEAM NAME: RAITA SETU
+PROPOSAL TITLE:
+PARTICIPANTS: 1) LAXMI M MARGOL
+ 2) SUMIT
+ 3) RAHUL
+01. SUBMISSION IDENTITY
+TITLE OF THE SOLUTION - ESTABLISHMENT OF UNIFIED AI ENABLED COPERATIVE MODEL
+INTEGRATED FARMING INDUSTRY- AN AGRI PLATFORM INTEGRATING THE ENTIRE FARM
+ACTIVITY , VALUE CHAIN & ALLIED SERVICES.
+THEME NAME - SAMRIDDH ANNADATA, SAMRIDDH BHARAT
+PROBLEM STATEMENT -
+TRACK - TRACK A :PRODUCT OR TECHNOLOGY & TRACK B : BUSINESS MODEL
+PROPOSED SOLUTION - ESTABLISHMENT OF UNIFIED AI ENABLED COPERATIVE MODEL
+INTEGRATED FARMING INDUSTRY- AN AGRI PLATFORM INTEGRATING THE ENTIRE
+FARM VALUE CHAIN
+02. PROBLEM AND SOLUTION
+ WHAT PROBLEMS DO WE INTEND TO SOLVE :
+India’s farmers do not lack hard work. They lack a system that works as one.
+Before sowing a farmers decisions are made from habit rather than soil and climate data.
+They buy seed and fertilizer from a local dealer on credit, at the dealer’s price, borrows from
+a moneylender because the bank process is too slow, At harvest has no storage, warehouse
+and no grading due to lesser quantity, so sells immediately, often below the fair price, to
+repay the loan. By the time the produce reaches a consumer, most of the price has gone to
+intermediaries.
+AgriStack (Digital Agriculture Mission) portal Farmer IDs, Digital crop survey (DCS) , Jan
+Samarth Portal, e- shram portal, MEGHDOOT App (IMD & ICAR), e- NAM portal, Soil health
+card ( SHC), WRDA portal, e-NWR , PMFBY crop insurance and Kisan Credit Cards, etc., State
+land records portal ( eg,. Bhumi, Kaveri online services for Karnataka) all exist. But they sit
+in separate portals and separate offices, and the farmer is expected to be the integrator.
+The problem is fragmentation. It produces the ICAR-recognised problems few of them as
+listed below-
+2
+1) Small, Fragmented and Marginal landholdings reduces economies of scale,
+bargaining power, and capacity to invest in modern technology.
+2) Exploitative Middlemen and long supply chains reduce the share of the consumer's
+price received by the farmer.
+3) Inadequate access to warehouse/ storage infrastructure by small farmers due to
+limited stock.
+4) Limited Market information
+5) Weak bargaining power by Small farmers and distress sale due to need for funds.
+6) Problems related to quality, grading and testing
+7) Low value addition due lack of information and isolation of processing, packagaing,
+branding, High logistics cost etc., units by the farmers
+8) Loss of biodiversity due to Monocropping and lack of information on Good
+agricultural practices by the farmers.
+9) Improper use of fertilizers, pesticides, seeds, Animal health management products.
+10) Failure to meet international standards.
+11) Insufficient working capital, inadequate institutional credit, and lack of knowledge of
+available Govt. schemes, Insurance, Financial institutions, etc.,.
+12) Limited traceability
+13) Weak links and inadequate co- ordination between farmers, value chain service
+providers , Market, financial institutions, Govt. authorities, buyers, etc,. and weak
+access to agriculture extension services.
+14) Lack of knowledge and Slow adoption of technology and good agricultural practices.
+15) Challenges in implementing Agriculture insurance and support programs.
+My solution proposes to solve all these problems faced by Indian Agriculture
+and farmers and work in furtherance of the central government goal to double
+farmers income.
+ OVERVIEW OF THE PROPOSED SOLUTION
+I propose to develop a unified AI-enabled Co-operative model integrated farming industry,
+an agricultural platform that integrates the entire farming value chain, from the first
+decision of the agricultural season to the final sale or export of the finished product that
+will assist in realizing the central Govt. goal of doubling farmers income. The platform will
+function as a digital agricultural ecosystem connecting farmers with scientific farming
+solutions, Farming methods, agricultural input suppliers , financial institutions, government
+authorities, Market management, Warehouses and cold storage units, logistics providers,
+packaging and branding services , processing units, exporters, direct selling to wholesalers
+through auction/ biding and to retailers, safeguards and Government schemes. It will create
+a digital footprint of farmers, farming activities and end products so that consumers are
+aware of the source of their product. Its centrepiece is the Digital Farming Portfolio and
+unified AI driven APIs orchestrator, a consent-based, continuously updated record of each
+farmer’s land, soil, inputs, finance and produce. Every farmer gets a Unique ID, and every lot
+of produce carries a QR/barcode tag for traceability. INFORMED STAKEHOLDERS
+3
+The central idea is simple: farmers should focus on farming, while the platform coordinates
+the Farming solutions, systems, services and stakeholders required to make farming
+productive, profitable and sustainable. Instead of requiring farmers to independently
+navigate multiple institutions, applications, markets and service providers, the proposed
+platform will integrate these activities into a single, farmer-friendly interface. Using artificial
+intelligence (AI), agricultural data, climate information and localised recommendations, API
+integration with AgriStack (Digital Agriculture Mission) portal Farmer IDs, Digital crop survey
+(DCS) , Jan Samarth Portal, e- shram portal, MEGHDOOT App (IMD & ICAR), e- NAM portal,
+Soil health card ( SHC), WRDA portal, e-NWR , PMFBY crop insurance and Kisan Credit Cards,
+etc., State land records portal ( eg,. Bhumi, Kaveri online services for Karnataka) etc.,. it will
+generate a customized Integrated Farming Model specific to each farmer/ co-operative and
+assist in its implementation, monitoring, financing and marketing.
+The ultimate objective is to transform fragmented, traditional farming activities into a datadriven, financially accessible, market-linked and export-ready agricultural ecosystem.
+The proposed Unified AI-Enabled Cooperative Model Integrated Farming Industry is a highly
+comprehensive, end-to-end blueprint that directly targets the structural bottlenecks of
+Indian agriculture identified by the Indian Council of Agricultural Research (ICAR). By shifting
+the paradigm from fragmented, isolated interventions to a unified value-chain orchestration
+platform, this solution directly supports the national strategic goal of doubling farmers'
+income. The core strength of solution lies in moving agriculture from a high-risk gamble to a
+data-driven enterprise.
+Eight Core Modules of the Platform
+Module Proposed functions
+1. Input
+Management
+Soil testing , Farmer/ co-operative specific Integrated farming models,
+seed selection, machinery rental or purchase, AI Enabled Pest
+detection, fertilizer and pesticide recommendations, automated
+irrigation management, weather updates and safeguards, input
+procurement through bulk placing of orders directly to companies and
+farm-operation reminders. Basically covering everything about farm
+management.
+2. Market
+Management
+Market-price information, buyer discovery, buyer/ service provider
+portfolio, digital produce listings, transparent transactions, auction/
+bidding and direct farmer-to-buyer linkages.
+3. Post-Production
+Management
+Harvest planning, machinery rental or purchase, warehouses, storage,
+cold chains, grading, assaying, processing, packaging, branding and
+logistics coordination.
+4. Export
+Management
+Export-oriented crop planning, traceability by creation of unique ID for
+every farmer and his produce, residue testing, quality standards,
+compliance, documentation and exporter linkages assistance.
+5. Financial
+Assistance
+Project report generation, automatic loan applications, eligible scheme
+linkages, funding opportunities, financial record management, and
+4
+Warehouse receipt loan to small farmers to prevent distress selling
+and providing assistance to farmers till sale of final product.
+6. Government
+Schemes
+Information on relevant agricultural schemes, eligibility screening,
+application assistance, status tracking where integrations permit, and
+links to designated government authorities.
+7. Safeguards
+Soil and environmental monitoring, safe input use, pest and disease
+alerts, weather-risk notifications, traceability and support for
+responsible farming practices, insurance services and status tracking,
+ESCROW and third party guarantee until final price realization.
+8. Agricultural
+Modernization
+AI-enabled decision support, digital farmer/ farm portfolios, modern
+farming practice/ machinery, precision farming, and technology
+adoption.
+ WHO IS AFFECTED AND WHERE DOES THE PROBLEM OCCUR?
+The crisis in Indian agriculture is not a single issue, but a systemic failure across a highly
+fragmented supply chain. The impact of these structural defects ripples through multiple
+societal and economic layers.
+The Affected Stakeholders
+1) Primary: Small and Marginal Farmers (86% of Indian Landholders) - They suffer
+from a severe lack of economies of scale, leading to skyrocketing cultivation costs.
+They face predatory lending, exploitative middlemen, and a total lack of
+transparency that erodes their profit margins, often forcing them into distress sales
+just to survive.
+2) Secondary: Retail Consumers and Food Processors - Consumers pay inflated prices
+due to an inefficient supply chain with 5–7 layers of intermediaries. They receive
+unstandardized, uncertified products with zero visibility into food safety, origin, or
+chemical residue levels.
+3) Macro: The National Agricultural Economy- The nation suffers from an average of
+15–20% post-harvest losses due to fractured cold-chain infrastructure, warehouses,
+Crop decisions are entirely uncoordinated with market demand, leading to cyclical
+glut-and-scarcity crises that destabilize food security.
+Where the Problem Lays
+The core problem does not lie in a lack of agricultural effort, but in incomplete coordination
+and systemic deficit across three distinct phases:
+1) Pre-Production Isolation: Farmers make critical decisions (seeds, fertilizers, crops)
+based on historical habit rather than scientific data, real-time climate insights, or soil
+chemistry, lack of knowlodge and support
+2) In-Production Exploitation: Essential services like purchasing of input, machinery
+buying or rentals, high-quality inputs, credit, schemes, safeguards and crop
+insurance operate in silos, requiring smallholders to navigate multiple complex,
+5
+disconnected agencies often through exploitative middleman leaving them only with
+small percentage of consumer pricing.
+3) Post-Production Disconnection: A vast physical and informational chasm exists
+between the farm gate, warehouse infrastructure, processing facilities, packaging
+and branding units and the ultimate buyer, leaving the farmer completely isolated
+from value-addition opportunities.
+ WHAT IS INNOVATIVE OR DIFFERENT ABOUT OUR SOLUTION
+The Digital Farming Portfolio: A Key Innovation is that it moves away from building isolated
+"point solutions" (like an app just for IS weather or just for market prices) and instead
+introduces a Value-Chain Orchestrator. It functions like an operating system for agriculture,
+weaving together existing public infrastructure and advanced automation.
+1) Hyper-Personalized "Diagnostic" Farming Models that are Plot-level, not generic;
+From plot to plan in minutes: The farmer speaks in Kannada and shares GPS ,the
+Integrated farming model is generated from GPS coordinates, Land and farm profile,
+soil health history, data is auto-pulled from government and other sources. The
+farmer types almost nothing.
+2) Automated End-to-End Financial De-Risking, From plan to loan in one flow. The
+AI project report doubles as the bank’s loan file. Lenders verify it through AgriStack,
+Bhoomi and Soil Health Card data, which cuts the paperwork that blocks small
+farmers.
+3) Project report to loan in one flow: the AI-generated report becomes a consentbased credit application, with lenders verifying through DPI.
+4) Execution, not just advice: the app connects farmers to vendors, logistics and allied
+service providers with a supervising officer appointed building buyers relationship
+and overcoming involvement of middleman
+5) Farm-to-fork traceability via a unique ID and QR code, useful for export compliance
+and building consumer trust.
+6) Distress-sale prevention: e-NWR-backed loans plus escrow-secured auctions.
+7) Cooperative-first design: aggregation gives bulk-buying power and bargaining
+strength.
+8) Voice-first, local-language interface for low-literacy users.
+9) Human-in-the-loop: RSK and agriculture officers validate and supervise, so AI
+supports officials rather than replacing them.
+10) Unified Interoperability : The proposed solution uses a zero-friction data-ingestion
+engine. By simply capturing GPS coordinates via voice command, your app plugs
+directly into India’s foundational Digital Public Infrastructure (DPI)—including
+AgriStack (Farmer ID), Bhumi (Land Records), and the Digital Crop Survey. It pulls
+verified public data instantly, ensuring data accuracy without putting a data-entry
+burden on the farmer.
+11) Transition from Information to Autonomous Execution Raitha Setu connects every
+service and ancillary unit in the value chain into one interlinked, automated
+system, so the farmer’s only job after harvest is to speak “yield ready” by voice in
+Kannada and schedule a farm-door pickup. That single step triggers the whole chain:
+6
+logistics collects the produce from the farm gate, the warehouse grades, tests and
+stores it, an e-NWR is issued for an instant warehouse-receipt loan, processing and
+packaging units add value, and the branded, QR-traceable produce goes to auction
+or export with escrow-secured payment. The farmer grows and speaks, and the
+platform moves, grades, stores, processes, packs, finances and sells. The whole step
+by step process can be tracked by the farmer or person interested through a unique
+ID or barcode.
+12) An unified Platform providing for end to end services to farmers from decision of the
+season to final sale of end product.
+13) Reduced coordination burden: One interface through which farmers can access
+multiple service providers.
+14) Integrated service delivery: AI enabled Coordination across the agricultural value
+chain rather than isolated services. All services brought under a single umbrella
+assisting farmers at every step.
+15) Built on public infrastructure. It integrates with existing systems, so it is cheaper,
+faster and easier for government to adopt.
+16) Market-oriented production: Linking crop decisions to potential market demand and
+buyer requirements then providing for one stop platform to farmers to sell their
+products to buyers thereby removing middleman at every step.
+This digital footprint can help farmers make better decisions, demonstrate their farming
+history and prepare supporting information for lenders, buyers and relevant authorities,
+subject to consent, data accuracy and institutional requirements. It will also help
+researchers to develop best agricultural practices and data driven better farm policy making
+by the Government and companies to make better products regionally suited.
+What Makes the Proposed Solution Different?
+The innovation lies not merely in providing agricultural information, but in integrating
+decision-making, execution, finance, monitoring and market access into one coordinated
+system. Most importantly, the platform is intended to move beyond a one-size-fits-all
+approach. It will develop farm-specific recommendations based on local conditions and
+connect those recommendations to the services required to implement them. It views
+farming as an industry.
+ HOW DOES OUR SOLUTION WORK
+The solution functions as a Unified, AI-Driven Digital Public Infrastructure (DPI)/ Public
+Platforms/ Private or commercial APIs Orchestrator creating a digital agricultural ecosystem
+that transforms fragmented smallholder farming into a synchronized, data-backed enterprise.
+It operates through following continuous loop:
+It has 3 layers
+Layer What it does
+7
+1. Farmer Speech to text voice and GPS app. The farmer speaks, taps and gets voice
+replies. A village coordinator helps those who need it.
+2. Intelligence
+layer
+Builds the Digital Farming Portfolio and uses AI to generate the farm plan,
+project report, pest triage, irrigation and harvest alerts, and logistics
+scheduling. Every recommendation passes through approved-practice
+rules .
+3. Connector
+layer
+Adapters to AgriStack/UFSI, Soil Health Card, Meghdoot, e-NAM,
+WDRA/e-NWR, Jan Samarth, PMFBY, banks, warehouses, logistics and
+processors, FRUITS, Bhoomi ( for Karnataka) Consent is checked before
+any data moves.
+1) Zero-Friction Ingestion/ onboard: The farmer joins individually or through the
+FPO/cooperative. A farmer uses local-language Speech-to-Text questionnaire
+prompts to share basic parameters and taps a button to drop their GPS farm
+coordinates. Every farmer will be assigned unique ID/ barcode.
+2) Federal Synchronization: The platform uses the coordinates to instantly query
+government API gateways, auto-populating the farmer's profile with identity
+registries (AgriStack), and seasonal history (Digital Crop Survey), weather history
+( MEGHDOOT), land records (Bhumi/Kaveri)
+3) AI Diagnostic Blueprint/ Integrated farming model: The AI engine crossreferences the land data, historical Soil Health Cards, weather conditions of that
+season and university agronomy databases to generate a customized, multienterprise Integrated Farming Model Report (combining resilient crops and
+livestock).
+4) Automated Credit: The report automatically routes to specific selected
+banks/NBFCs by farmers if required and with the consent of the farmer for instant
+underwriting. Once approved the project is placed under the supervision of a local
+Raitha Samparka Kendra (RSK) officer.
+5) Direct procurement: The app bypasses middlemen by aggregating input
+demands to place bulk, factory-direct orders for seeds, tools, and machinery
+purchase/rental or best possible vendors based its AI analysis.The app suggests
+crop and breed , agricultural inputs variety, with GAP and export standards in
+mind.
+6) In-Season Care & Traceability: Throughout the cycle, the app uses computer
+vision for instant photo-based pest detection and pushes precise chemical/organic
+dosing reminders. IoT based irrigation systems, direct procurement of fertilizers
+and pesticides animal health management products by bulk placing of orders or by
+connecting farmers to best possible vendors based on its AI analysis. At harvest,
+the produce is physically tagged with a Unique Barcode/ Farmer ID that maps its
+entire digital footprint (locality, fertilizer logs, purity metrics) for the end
+consumer just by entering Farmer Id/ barcode.
+8
+7) Autonomous Logistics: The farmer taps a voice button to state their harvest is
+ready and provides for his GPS co-ordinates. The AI autonomously routes thirdparty logistics to the farm gate, moving cargo to certified cold storage/
+warehouses .
+8) Value addition: the automated support then carries forward the whole process of
+value addition where the produce is graded, tested , then moved to collaborated
+processing units , packaging & branding units including logistics involved in the
+process with the tied logistics partners and finally the end product is stored in the
+warehouse from where the product is listed for final sale/ auction. The farmers can
+simply trace the status of the status and location of the produce on the app
+through his unique ID/ barcode.
+9) Traceability: every end product will carry farmers unique ID/ barcode through
+which consumers get to know the source of their produce and its compliance with
+permitted dosage of inputs materials.
+10) To prevent distress selling, an Electronic Negotiable Warehouse Receipt (eNWR) Loan is instantly unlocked providing liquid cash to the farmers until final
+sale of end product.
+11) Finally, the branded produce is liquidated via a digital B2B auction (e-NAM), or
+listed for sale on the app itself by the farmers who can sell it through auction/
+bidding or directly to consumers for export. The App manages all these
+transactions including logistics Payment flows through a licensed escrow and is
+released on verified delivery.
+12) The App also provides for safeguards like integration PMFBY, automated
+eligibility checking and application to schemes that the farmer is eligible to
+guidance on polyhouses, precision farming and similar upgrades.
+The Farmers Journey: A pilot overview for Karnataka state
+Step Farmer does Platform does Public system used
+1. Onboard
+Answers a voice to
+text questionnaire and
+shares GPS
+Creates the Digital Farming
+Portfolio and issues a Unique
+ID/ Barcode
+AgriStack Farmer ID,
+FRUITS ID etc.,.
+2. Sync Gives OTP consent
+Fetches land, area, crop-sown
+and soil data; asks the farmer
+or RSK to correct any mismatch
+Bhoomi, DCS, Soil
+Health Card, crop
+survey
+3. Plan Reviews the plan by
+voice
+Generates an Integrated
+Farming Model and costed
+project report from land, soil,
+water and weather, checked
+against approved practices
+AI analysis of
+University crop data,
+Meghdoot/weather
+feeds
+4. Finance Consents to apply
+Sends the report as a loan file
+to the banks selected by the
+farmers. lenders verify through
+DPI; an RSK or agriculture
+officer is assigned
+AgriStack, FRUITS, KCC,
+Jan Samarth
+5. Procure Confirms the order Aggregates demand and orders Vendor network
+9
+seed, inputs and machinery
+from verified suppliers
+6. Grow Photographs leaves,
+follows reminders, Iot
+Gives pest triage, irrigation and
+dose alerts, and logs every
+input
+Weather feeds, KVK
+advisories updates
+7. Harvest Says “yield ready” and
+picks a pickup slot
+Books harvesting and farmgate pickup Logistics partners
+8. Value
+addition Nothing
+Grading, testing, storage,
+processing , packaging ,
+branding, QR tag, e-NWR
+issued
+WDRA-registered
+warehouse,
+processing, packaging ,
+branding , logistics
+partners.
+9. Hold or sell Chooses to take a
+pledge loan or sell
+Unlocks an e-NWR loan; lists
+the lot on e-NAM or auction or
+retsil sale on app
+WDRA, e-Kisan Upaj
+Nidhi, e-NAM
+10. Get paid Receives payment Escrow releases funds on
+verified delivery Lice
+ WHO WILL BENEFIT AND WHAT IMPACT WILL IT CREATE
+1) Direct beneficiaries: small and marginal farmers, women farmers and SHGs, and
+FPOs and cooperatives.
+2) Indirect beneficiaries:
+ Banks and NBFCs, through verified, lower-risk lending.
+ Allied agriculture service providers, input & machinary providers, Contact farming
+companies
+ Consumers and exporters, through traceable quality.
+ Government, through better data and better targeting of schemes.
+Expected Social and Economic Impact
+Wider Impact:-
+1. Reduce avoidable input costs and improve the efficiency of farm operations.
+2. Improve access to institutional finance and suitable agricultural technologies.
+3. Encourage scientific, climate-informed and Integrated sustainable farming practices.
+4. Reduce post-harvest losses through improved storage, processing and logistics
+coordination.
+5. Strengthen farmers’ bargaining power through collective procurement and
+marketing.
+6. Improve price discovery and access to buyers/ sellers.
+7. Help suitable farmer/ co-operative groups enter value-added chain and exportoriented agricultural value chains.
+8. Create reliable digital farming records that support long-term agricultural planning
+and data driven policy making by government.
+10
+9. Help in achieving goal of central Government to double farmers income through best
+suited agricultural practices and value addition.
+Impact we will measure in the pilot
+Sl. No. Ooutcome How we measure it
+1. Lower cost of cultivation % saving from bulk
+procurement vs. baseline
+2 Higher productivity Quintals per acre vs.
+previous season
+3 Better price/ price realized per acre after sale of
+end product
+Realised price vs. local
+mandi average
+4 Less distress sale % of farmers holding stock
+or using e-NWR
+5 Credit inclusion First-time formal loans;
+time from application to
+approval
+6 Lower losses Post-harvest loss %
+7 Traceability Number of QR-tagged lots
+8. Middleman removal Sales made through eauctioning, wholesale, retail
+ WHAT EVIDENCE DO WE HAVE : the Evidence aspect of the problem can be
+discussed under following 5 categories –
+1) Evidence that the problem exists - The problem is real and effecting farmers
+throughout India. The INDIAN COUNCIL FOR AGRICULTURE RESEARCH itself
+provides for the problems. The following Official, citable sources show the
+problem is national and documented.
+Claim in your project Citation sources
+Most farmers are small
+or marginal
+Agriculture Census 2015-16 (Dept. of Agriculture &
+Farmers Welfare); about 86% of holdings
+Farm household
+income is low and debt
+is common
+NSSO Situation Assessment Survey of Agricultural
+Households (77th round, 2018-19)
+Post-harvest losses are
+significant
+ICAR-CIPHET harvest and post-harvest loss study
+Farmers get a low
+share of consumer
+price
+NABARD, NITI Aayog or Dalwai Committee report
+Income needs a
+systemic fix
+Report of the Committee on Doubling Farmers’ Income
+(Ashok Dalwai, 2018)
+Problem list ICAR’s list of problems of Indian
+11
+Integrated farming
+model and its benefits
+Source:CEEW
+https://sharegoogle/5o9P9Lxa5LRsEno0D
+2) Evidence from lived experiences - We ourselves belong to generational family of
+farmers and growing up in agriculture household, where the main source of family
+income is still agriculture, we have First-hand understanding of practical
+agriculture, farm & farmers real problems. We have watched my family face crop
+losses due to uncertain climate, price crashes and lack of knowledge about proper
+input materials storage and processing. We have seen how our parents take loans
+from private lenders and sell crops at lower price to the same lenders due to
+shortage of money in repayment. Loan applied to banks take forever to get
+approval. We did not even avail PMFBY benfits for years as we were not aware of
+the scheme or KCC benefits too. We have seen talented and hard working
+farmers stay poor because of poor planning, unstable markets, weak access to
+knowledge about processing , value addition and export opportunities . One our
+team Laxmi Margol was a practicing an advocate, who is aware of how farmers
+struggle with documentation, insurance claims and scheme access, Sumit being
+MCA student has witnessed rural digital illiteracy and how it to contributes to lack
+of knowledge of Govt. schemes are methods. Rahul being commerce students has
+seen how agriculture is viewed as non - profitable income source. We want
+farmers to be self-reliant, not dependent on middlemen or luck hence intend to
+turn lifelong concern into structured action. Motivation here is personal.
+3) Primary field evidence: The problem is documented at the national level as
+verified by the citations provided above. To test whether these hold in
+Kalaburagi, I surveyed _____farmers across Somanathhalli village Tq/ Dist
+kalburagi between 1/10/2026 to 15/10/2026 . Of these, ______sold their main
+crop within one month of harvest; ____depended on dealer credit or
+moneylenders; the average interest paid was____; and _____received less than the
+price they considered fair, ______had no access to storage/ warehouse , had
+missed a scheme because of paperwork or lack of information, _____ had zero
+knowledge of value addition, ___ depended heavily on middleman, ____ had
+access to machinary or modern implements,____ had ,market knowledge, ____
+lost due to pests or wrong use of fertilizers and pesticides, Seva Raita Setu was
+discussed with the farmers and _____ were willing to use the app, Detailed report
+is herewith annexed with the project report. Few farmers have also signed
+expression of interest in using the App is herewith annexed.
+4) Stakeholder validation (proof of adoption interest)- Raitha Setu has been discussed
+with FPO ___________, KVK Kalaburagi, Raita samparka Kendra Farhatabad, and
+processing unit, which gave a letter of support, a willingness to validate crop models, a
+meeting record and a letter of intent respectively which are herewith annexed. Their
+feedback has shaped the design, and the pilot will test their continued participation.
+12
+5) Feasibility and precedent evidence
+ The building blocks already work (precedents)
+Agricultural systems already live: AgriStack and Farmer ID, Digital Crop
+Survey, Soil Health Card, e-NAM, e-NWR under WDRA, MEGHDOOT,
+PMFBY, Karnataka’s own farmer-ID system (FRUITS) , Bhoomi land
+records, Existing FPO networks, ETC.,.
+ Technical proof of concept
+A clickable prototype herewith annexed with the project report
+ A sample practically executable Integrated Farming Mode for 4 acre
+agricultural land in kalaburagi annexed with the project report.
+.
+ PROOF OF EVIDENCE :
+Annexure A: Video explaining the proposed solution briefly
+Annexure B: Secondary data sources, with exact citations and page numbers.
+Annexure C: Farmer survey: questionnaire
+Annexure D: Farmer video compilation
+Annexure E: Letters of support from the FPO and Raita Samparka Kendra, Farhatabad
+Gulbarga, meeting record with the bank, LoI from processing partner
+Annexure F: Photographs of field visits
+Annexure G: Prototype link.
+Annexure H: Sample Integrated Farming Model
+Annexure I: Lean Canvas model of the Project
+ HOW CAN SOLUTION BE IMPLEMENTED AND SCALED
+The solution will run as a pilot program concentrating on selected 5 village in
+Kalaburagi district of Karnataka state. The baseline survey has already begun in
+Somanathhalli (1–15 October 2026), and the team has the skills to build and run the
+pilot: Laxmi Margol (legal and compliance), Sumit (technology), Rahul (finance and
+market operations). The solution is structured into an institutional-grade, riskmitigated execution model.
+The strategy addresses the key requirements of the challenge's evaluation criteria—
+Institutional Feasibility, Financial Sustainability, and Adoption Pathway—by
+focusing on field-level deployment, technology integration, and economic viability.
+The solution shall be implemented in following phases-
+13
+Phase 1 (Months 1-2): Groundwork - Localized trust and foundation:
+1) Complete survey by meeting existing Farmers explain the benefits of our project
+in detail, build trust with the farmers and a clientele to implement the project.
+Pursuade and convence them to form FPOs or co-operative farming. Help the
+farmers in legal compliance and registration of the the formed co-operative /
+FPO.
+2) Meet Agriculture Department, FPOs, KVK and university experts, explain our
+solution and get insights from them, get an in depth understanding of practical
+farming practices, habit crops, hurdles faced, prominent agricultural practices
+specific to Gulbarga, their database, etc.,. Record landholdings, locally grown
+crops, methods and implements used, input products and costs, sale channels as a
+baseline. Basically understand practical working mechanism of agriculture in
+Kalaburgi.
+3) Complete survey by visiting processing, packaging, branding, storage, warehouse
+and logistics offices and convence them to to collaborate with us for the purpose
+of successful implementing vale addition chain.
+4) Apply for AgriStack/UFSI sandbox and other APIs access
+5) Develop a full fledged mobile based application as per the prototype and deploy
+the same. Beta testing of the app and providing training to farmers on how to
+navigate through the App.
+6) Secure a village coordinator, Raita Samparka Kendra officer, agriculture expert
+mentor who will assist and overlook the implementation of the project
+Phase 2 (Months 3): onboarding
+1) Voice Onboarding Infrastructure & unique traceability layer: Once the
+groundwork is completed ,a localized, zero-literacy interface utilizing a Speechto-Text Voice Questionnaire is deployed. Farmers input their basic operational
+details using local dialects. Unique Traceability Layer: Every registered farmer
+receives a persistent, platform-generated Unique ID and farm-gate Barcode. This
+code tracks the lifecycle of the crop (locality, fertilizer volumes, testing logs),
+providing full digital visibility to the end buyer and consumer. Hence, creating
+digital farming and farmer portfolio.
+2) Cross-System Government Data Convergence-
+• DPI Data Synthesis: When the farmer provides their GPS farm coordinates,
+the backend automatically queries open government API sandboxes via the
+Ministry of Agriculture's AgriStack initiative and Karnataka's Bhumi and
+Kaveri , crop survey registries.
+• Data Integrity Mapping: The system auto-populates land ownership
+parameters, boundary shapes, and active profiles, history of crops, soils etc.,
+without forcing the farmer to upload physical land documentation.
+• Collaborative Knowledge Base: Partnering with the University of Agricultural
+Sciences, Kalaburagi local Krishi Vigyan Kendras (KVKs) to compile a local
+scientific database tracking regional animal breeds, soil macro/micronutrient
+history (via Soil Health Cards), and historical weather cycles.
+14
+• The platform's AI engine analyzes the collected land area, soil chemistry,
+water sources, and climate forecasts to generate a farmer specific HyperPersonalized "Diagnostic" Farming Models that are Plot-level.
+Phase 3 (Months 4 - 6 ): Credit Automation & Execution of the project
+Once the localized farm datasets are synthesized, the platform moves beyond advice
+and automates physical and financial operations.
+• Institutional Credit Requests: The Integrated Farming report is converted into
+an institutional loan application routed to local public sector banks, Regional
+Rural Banks (RRBs), or NBFCs or even private investors. Investors review
+pre-vetted data points pulled instantly via the platform's AgriStack and Bhumi
+or kaveri online services ( for Karnataka State) integrations, etc., which helps
+compress the underwriting timeline. Farmers here just provide necessary
+information required by the investors to verify their data through government
+website. A separate Loan application is auto filled and filed by the AI engine.
+Farmers only has to give consent in speech to text module and the App will do
+the rest. Farmers can also track the status of their loan application. Initially at
+pilot stage collaboration at request with the localized banks / NBFCs/ private
+investors is employed to raise funds. Full plan shall be executable only after
+scaling of solution after relevant compliances are met with.
+• The App through Integration with Public APIs also provides for applicable
+and eligible Govt. schemes, insurance etc.,. and it auto applies for eligible
+schemes with the consent of the farmer/ co –operative.
+• On-Ground Supervision: Upon loan approval, to Secure operational
+compliance a dedicated local Raitha Samparka Kendra (RSK) officer or
+village extension worker or village accountant is asssigned to audit and track
+the project's execution.
+• Disintermediated Supply Marketplace - The app aggregates farm plans across
+the cooperative/ group of farmers to place bulk, factory-direct marketplace
+orders for seeds, tools, and machinery rentals, and implements required in
+execution of the project by passing retail distributor margins or middleman.
+The App AI engine analyses distance ,pricing across various B2B and B2C
+vendors , contracts/ tender seekers like Electrical Contractors, Empanelled
+Solar & IP Set Contractors, Government-Registered e-Procurement Bidders
+etc.,and provides the list of best possible vendors/contactors to buy from.
+Now the INTEGRATED FARMING MODEL is fully operational
+Phase 4 (Months 7 - 14 ): Smart Farm Management, In-Season Execution Rails
+& traceability log input,
+Constant support and assistance to the farmers/ co operative through the app built in
+AI engine providing end to end assistance for systemic Integrated farming
+management few of them are as listed below-
+15
+• Aggregated Bulk Procurement: The app aggregates farm plans across the
+cooperative and individual farmer needs to place bulk, factory-direct
+marketplace orders for fertilizers, pesticides or animal health management
+and nutrition needs. The App AI engine analyses distance ,pricing across
+various B2B and B2C vendors list of best possible vendors to buy from. It
+also provides for quantity, quality and dosage of inputs to be used keeping in
+mind GAP ( good agricultural practices) and export international standards
+for farmers wanting to export their produce. Every input used is loged by the
+farmer through simple voice to text feature maintaining digital footprint of the
+farm produce.
+• AI-IoT Precision Care: During the cultivation cycle, the app guides the farmer
+step-by-step through its AI engine.
+• Smart Watering: Uses weather feeds and soil sensors to send automated
+irrigation notifications.
+• Computer Vision Pest Logs: Farmers upload smartphone photos of crop
+damage; the engine diagnoses the pest and prescribes exact chemical or
+organic application rates (such as the Savayava Bhagya organic initiative in
+Karnataka).
+• Dosing Reminders: Sends automated voice alerts regarding input intervals to
+ensure the harvest remains free of prohibited residues and is fully exportcompliant.
+• The entire project at the pilot stage is overlooked by agricultural officers of
+local Raita sampkara Kendra and university experts and scientist to help them
+manage their crops and animal husbandry units.
+Phase 4 (Months 15 – 19)- Autonomous Post-Production & Financial Safeguards
+This phase focuses on the post-production chain, value addition, eliminating
+distress sales to achieve the goal of doubling farmers income.
+1. One-Click Logistics & Value-Addition Coordination
+• Autonomous Shipping Routing: At harvest time, the farmer states via voice prompt:
+"My harvest containing ___ quintals of produce is ready at these coordinates." The AI
+automatically calculates cargo weight, books a slot with an integrated third-party
+logistics provider, and sends a vehicle straight to the farm gate.
+• Value-Chain Processing: The barcoded produce is transported to a partner cold
+storage facility or warehouse unit, where it undergoes automated grading, assaying,
+and chemical testing. It is then moved through processing channels for custom
+packaging and retail branding. The farmer can trace the stage of value addition and
+location his product is at just by scanning his barcode or through Farmer ID.
+• The final end product is then stored at warehouse repository and then listed for
+sale/ auction where the buyers either wholesalers, retailers or for export.
+• Here the app manages end to end services of whole value addition, logistics and sale
+Without farmers having to worry about any step. The transactions are fully
+transparent & secured. The App takes care of all regulatory and legal compliances
+with little to no involvement of the farmers. Everything is traceable through unique
+digital Id and barcode of the farmer/ co operative.
+16
+2. Financial Safety Nets & Transparent Liquidation
+• Eliminating Distress Selling: Once ingested into a registered warehouse, the
+facility issues an Electronic Negotiable Warehouse Receipt (e-NWR) via the
+WDRA portal. The app uses this to unlock a short-term Warehouse Receipt
+Loan from partner financial institutions, providing instant cash flow so the
+farmer can hold their crop until market prices peak.
+• Escrow-Backed Open Auctions: B2B buyers and global exporters bid on the
+branded produce through an automated interface integrated with the
+Electronic National Agriculture Market (e-NAM) portal. Funds from the
+winning bidder are secured within an Escrow Account, releasing directly to
+the farmer's verified bank account only after shipment delivery and quality
+parameters are digitally confirmed.
+• Infrastructure Modernization Scaling: Matured farmer cohorts are guided
+through advanced, high-yield infrastructure setups, including automated
+polyhouses, hydroponic grids, and climate-controlled livestock facilities, to
+continually maximize net farm income.
+SCALABILITY:-
+Our solution features a low marginal cost for expansion. Because we build on top of India's
+existing Digital Public Infrastructure (DPI) like AgriStack, MEGHDOOT, SHC, E-NAM
+etc., expanding our platform to a new district or state requires zero physical infrastructure
+spending. We are scaling a software layer, not a brick-and-mortar operation. This allows us to
+rapidly scale from a handful of farmers / co-operative/ FPO in Gulbarga to millions of
+smallholders across India.
+ Only two things change by state: the land-record connector and the local crop
+knowledge base. The engine, voice layer and workflows stay the same, and AgriStack
+is built as a federated architecture managed jointly by Centre and States.
+ The building blocks are national. e-NAM already links 1,656 mandis and has over
+1.80 crore farmers and 4,724 FPOs registered. e-NWR pledge loans are available on
+Jan Samarth’s e-Kisan Upaj Nidhi, with KCC farmers eligible for pledge loans at 7%
+a year, with margin generally 25%, and a credit guarantee scheme supports lenders.
+ Cooperative-first scaling. Adding an FPO or cooperative adds many farmers at once
+and spreads the cost of coordination.
+WHO COULD ADOPT OR IMPLEMENT THE SOLUTION
+To bring this unified ecosystem to life under the SEVA First Innovation Project, execution can
+be driven th rough public-private-cooperative partnerships.
+1) Public Sector & Government Entities
+• Ministry of Agriculture & Farmers Welfare (MoA&FW) & State Agriculture and Horticulture
+departments: To adopt this as a flagship digital framework under the national AgriStack
+17
+initiative, aligning directly with central mandates to modernize farm extension services and
+achieve goal of doubling farmers income.
+• NABARD (National Bank for Agriculture and Rural Development): To back the project
+financially, specifically utilizing its funds to deploy the platform's fintech infrastructure for
+smallholder credit scoring.
+2) Cooperative Frameworks (The Ground Infrastructure)
+• Primary Agricultural Credit Societies (PACS): Acting as the primary ground-level adoption
+hubs, using their existing village networks to host soil testing and inputs procurement
+modules and implementation of integrated farming model.
+• Farmer Producer Organizations (FPOs) & Federations: To leverage the platform's collective
+bidding and logistics coordination tools to aggregate demand, scale operations, and bypass
+local middlemen.
+3) Private Sector & AgTech Ecosystems
+• AgTech Startups & Corporate Agri-Inputs Providers: To plug into the marketplace module
+as verified input suppliers, machinery renters, or buyers, unlocking access to a highly
+organized, data-verified farmer base.
+• Institutional Banking & Micro-Finance Institutions (MFIs): To integrate their automated
+credit approvals with the platform's Digital Farming Portfolio, creating a low-risk channel for
+distributing rural credit and warehouse receipt loans.
+WHAT SUPPORT DO I NEED ?
+1) Data access: sandbox and API access to AgriStack (Digital Agriculture Mission), Digital
+crop survey (DCS) , Jan Samarth Portal, e- shram portal, MEGHDOOT App (IMD &
+ICAR), e- NAM portal, Soil health card ( SHC) portal Farmer IDs, land records, e-NAM,
+e-NWR, WRDA portal , PMFBY crop insurance and Kisan Credit Cards, etc..,. State
+land records portal ( eg,. Bhumi, Kaveri online services), NPCI , etc.,. with a clear
+consent framework.
+2) Institutional backing: RSK ( Raita Samparka Kendra for Karnataka) agriculture,
+horticulture, Veterinary institution officers formally assigned as pilot supervisors,
+collaboration with Agriculture universities ,research scholars, experts and
+recognition of the platform as a pilot under the Digital Agriculture Mission.
+3) Financial support: pilot grant or NABARD funding (for example through its
+innovation or FPO support schemes), and priority sector lending and KCC integration
+with banks.
+4) Regulatory clarity: guidance on escrow, e-NWR-based lending, and traceability or QR
+standards etc..,.
+18
+5) Infrastructure linkages: access to WDRA-registered warehouses, cold storage and
+APMC yards.
+6) Capacity building: training for farmer/ FPO staff and village-level agri-entrepreneurs.
+To implement the Raitha Setu (Unified AI-Driven Cooperative Integrated Farming
+Ecosystem) as pilot project in Kalaburagi, Karnataka, the total estimated investment
+required is ₹27,500,000 (₹2.75 Crore).
+COST TO IMPLEMENT PILOT PROJECT
+This pilot framework targets the onboarding of 5,000+ small and marginal farmers across a
+cluster of villages (headquartered near Farhatabad/Somanathahalli) to achieve the
+necessary scale for collective bargaining, bulk procurement, and autonomous value-chain
+orchestration.
+1. Core Technology Development & DPI Integration: ₹10,000,000 (₹1.00 Crore)
+This module acts as the digital engine room of the platform, transforming it from a simple
+information dashboard into an autonomous value-chain orchestrator.
+• Unified AI Orchestration Engine & Voice API: ₹4,500,000
+• Development of the Kannada Natural Language Processing (NLP) speech-to-text and textto-speech engine to ensure low-literacy farmers can trigger the entire supply chain by
+simply saying "yield ready".
+• Building the computer vision module for instant photographic pest and disease diagnostic
+routing.
+• National & State DPI API Integrations: ₹3,500,000
+• Building zero-friction secure connectors to pull data instantly from state registries (Bhoomi
+Land Records, FRUITS ID, Digital Crop Survey) and central portals (AgriStack, Soil Health
+Card, Jan Samarth, e-NAM, and WDRA/e-NWR).
+• Cloud Infrastructure, Cybersecurity & Traceability Ledger: ₹2,000,000
+• Hosting, server compute for executing multi-enterprise integrated farming algorithms, and
+setting up the QR/barcode unique tracking engine for farm-to-fork digital footprinting.
+2. Rural Ground Operations & Human-in-the-Loop Network: ₹7,000,000 (₹70 Lakhs)
+Because rural digital illiteracy is a major friction point, a dedicated physical support tier is
+vital to ensure smooth onboarding and system compliance.
+• Village Coordinators (Krishi Setus): ₹4,200,000
+19
+• Deployment of 10 hyper-local village coordinators across the Kalaburagi cluster for 12
+months (at ₹17,500/month each). They act as physical anchors, helping farmers drop GPS
+coordinates, verifying data mismatches, and managing physical tagging.
+• RSK & Agronomy Expert Honorariums: ₹1,200,000
+• Compensating local Raitha Samparka Kendra (RSK) officers and university extension
+experts who act as the mandatory "human-in-the-loop" validators to review and approve
+the AI-generated project plans and structural crop Blueprints.
+• Field Kits & Handheld Hardware: ₹1,600,000
+• Procurement of robust handheld devices, portable digital weighing scales, and heavy-duty
+barcode/QR tag printers for ground staff to track produce at the farm gate.
+3. Logistics, Quality Grading & Storage Infrastructure: ₹4,500,000 (₹45 Lakhs)
+This covers the physical execution phase, shifting the operational burden completely off the
+farmer's shoulders post-harvest.
+• Aggregated Farm-Gate Logistics Setup: ₹2,000,000
+• Fuel, vehicle retention, and operational routing overheads to dispatch contracted 3rdparty trucks immediately to farm gates upon voice trigger.
+• Assaying, Grading, and Purity Testing Equipment: ₹1,500,000
+• Setting up localized quality-testing setups at collaborating warehouses to verify moisture
+content, chemical residue levels, and size grading to prepare produce for institutional B2B
+auction or export compliance.
+• Subsidized Warehouse Storage Allocation: ₹1,000,000
+• Securing and retaining space in WDRA-registered warehouses and cold storage units
+during the peak harvest month to avoid the necessity of immediate distress sales.
+4. Working Capital & Escrow Safety Pool: ₹4,000,000 (₹40 Lakhs)
+Financial de-risking is crucial to shield vulnerable smallholders from predatory
+moneylenders while formal bank loans are being processed.
+• Bridge Liquidity Fund for e-NWR Loans: ₹2,500,000
+• A revolving security pool to disburse micro-advances to farmers the moment their
+produce enters a registered warehouse, providing instant liquid cash while the formal eNWR (Electronic Negotiable Warehouse Receipt) bank loan processes through the Jan
+Samarth framework.
+• Escrow Account & Transaction Safety Pool: ₹1,500,000
+• Maintaining the transaction architecture for secure B2B digital auctions, ensuring thirdparty payment guarantees clear successfully before funds are released on verified delivery.
+5. Administration, Compliance & Farmer Training: ₹2,000,000 (₹20 Lakhs)
+20
+• FPO Aggregation & Legal Compliance: ₹1,200,000
+• Assisting participating FPOs and cooperatives with legal framework harmonization,
+formalizing export paperwork, and coordinating certifications to meet strict international
+phytosanitary standards.
+• Farmer Onboarding Camps & Training: ₹8,000,000
+• Conducting targeted village-level workshops across Kalaburagi to teach farmers how to
+use the voice-first application, explain the benefits of soil-data-driven crop planning, and
+demonstrate the asset value of e-NWR storage.
+Cost Breakdown Matrix
+Cost Component Budget Allocation (INR) Primary Operational Objective
+CoreTechnology
+Development
+₹10,000,000 AI Engine, Kannada Voice API, and
+Central/State DPI Integration
+Ground
+Operations &
+Support
+₹7,000,000 20 Village Coordinators, RSK alignment, and
+Field Hardware
+Admin, Training &
+Compliance
+₹2,000,000 FPO compliance, export documentation,
+and farmer workshops
+Logistics &
+Infrastructure
+₹4,500,000 Farm-gate collection, digital assaying, and
+warehouse slots, working capital for
+processing, packaging and branding
+Working Capital &
+Escrow
+₹4,000,000 Instant bridge loans to stop distress sales;
+transaction escrow
+Total Estimated
+Pilot Cost
+₹27,500,000 Comprehensive 12-Month Pilot for 10,000
+Farmers
+INCLUSION OF STAKE HOLDERS AT THE ROOT LEVEL
+SUSTAINABLE DEVELOPMENT THIS IS GOING TO KEEP THE FARMERS AND WOMEN AND
+CHILDREN
+APP IS INTEGRATING EVRYTHING IN ONE PLATFORM NAVIGATE THROUGH DIFFERENT
+PLATFORMS/ DEPARTMENTS
+AUTOMATED VALUE ADDITION CHAIN
+PROMOTES SUSTAINABLE FARMING PRACTICES
